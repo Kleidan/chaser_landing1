@@ -1,0 +1,38 @@
+body {
+  font-family: 'Heebo', sans-serif;
+}
+
+#text {
+  max-width: 420px;
+  width: 100%;
+  margin-inline: auto;
+  margin-block: 3rem;
+}
+
+p {
+  font-size: 1.25rem;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+label {
+  font-weight: bold;
+}
+
+#my-input {
+  border: none;
+  border-radius: 0;
+  border-bottom: 4px solid #F50B33;
+  background-color: #F6F6F6;
+  font-size: 1.25rem;
+}
+
+button {
+  color: white;
+  background-color: #F50B33;
+  font-size: 1.375rem;
+  font-weight: bold;
+  padding: 9px 48px;
+}

@@ -21,7 +21,7 @@ label {
   font-weight: bold;
 }
 
-#my-input {
+.my-input {
   border: none;
   border-radius: 0;
   border-bottom: 4px solid #F50B33;
